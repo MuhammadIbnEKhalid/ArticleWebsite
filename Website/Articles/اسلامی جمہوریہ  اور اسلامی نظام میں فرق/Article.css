@@ -1,0 +1,39 @@
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body{
+        background-color:#202020;
+}
+center{
+    color:white;
+}
+.ButtonContainer{
+    text-align: center;
+}
+.button{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button1{
+  border-radius: 12px;
+}
+.c{
+  position: absolute;
+  left: 10px;
+  top: 0px;
+}
+.c,d{
+  display: inline-block;
+  vertical-align: middle;
+  margin: 10px 0;
+}
